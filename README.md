@@ -62,7 +62,7 @@ The report is organized into eight pages, progressing from executive monitoring 
 
 ### 01. Executive Overview
 
-![Executive Overview](screenshots/01-executive-overview.png)
+![Executive Overview](screenshots/01-executive-overview.jpg)
 
 Provides a consolidated view of inventory value, commercial performance, gross margin, low-stock exposure, and replenishment indicators.
 
@@ -70,7 +70,7 @@ Provides a consolidated view of inventory value, commercial performance, gross m
 
 ### 02. Inventory Intelligence & Reorder Risk
 
-![Inventory Intelligence](screenshots/02-inventory-intelligence.png)
+![Inventory Intelligence](screenshots/02-inventory-intelligence.jpg)
 
 Analyzes inventory status against reorder thresholds to identify products requiring attention and quantify stock shortfalls.
 
@@ -78,7 +78,7 @@ Analyzes inventory status against reorder thresholds to identify products requir
 
 ### 03. ABC Classification & Pareto Analysis
 
-![ABC Pareto Analysis](screenshots/03-abc-pareto-analysis.png)
+![ABC Pareto Analysis](screenshots/03-abc-pareto-analysis.jpg)
 
 Examines the distribution of inventory value across products and applies ABC classification to distinguish high-value items from the rest of the portfolio.
 
@@ -86,7 +86,7 @@ Examines the distribution of inventory value across products and applies ABC cla
 
 ### 04. Sales Performance & Profitability
 
-![Sales and Profitability](screenshots/04-sales-profitability.png)
+![Sales and Profitability](screenshots/04-sales-profitability.jpg)
 
 Evaluates estimated sales, cost of goods sold, gross profit, and gross margin using the available unit cost, retail price, and sales volume fields.
 
@@ -94,7 +94,7 @@ Evaluates estimated sales, cost of goods sold, gross profit, and gross margin us
 
 ### 05. Procurement Intelligence & Supplier Exposure
 
-![Procurement and Supplier Exposure](screenshots/05-procurement-supplier-exposure.png)
+![Procurement and Supplier Exposure](screenshots/05-procurement-supplier-exposure.jpg)
 
 Explores inventory and commercial measures by supplier to provide visibility into supplier-level exposure and portfolio distribution.
 
@@ -102,7 +102,7 @@ Explores inventory and commercial measures by supplier to provide visibility int
 
 ### 06. Replenishment Planning
 
-![Replenishment Planning](screenshots/06-replenishment-planning.png)
+![Replenishment Planning](screenshots/06-replenishment-planning.jpg)
 
 Quantifies replenishment gaps and estimated purchasing requirements using stock levels, reorder points, and unit costs.
 
@@ -110,7 +110,7 @@ Quantifies replenishment gaps and estimated purchasing requirements using stock 
 
 ### 07. What-if Inventory & Procurement Simulator
 
-![What-if Simulator](screenshots/07-what-if-simulator.png)
+![What-if Simulator](screenshots/07-what-if-simulator.jpg)
 
 Allows users to test alternative assumptions and evaluate their impact on estimated replenishment quantities and purchasing budgets.
 
@@ -118,7 +118,7 @@ Allows users to test alternative assumptions and evaluate their impact on estima
 
 ### 08. Product Deep Dive & SKU Diagnostics
 
-![Product Deep Dive](screenshots/08-product-deep-dive.png)
+![Product Deep Dive](screenshots/08-product-deep-dive.jpg)
 
 Provides a detailed view of individual products, including inventory position, unit economics, and reorder-related indicators.
 
